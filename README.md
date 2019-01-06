@@ -1,2 +1,4 @@
 # Hello_Word
-New repository
+Hi humans!
+I don't know what write.
+just because i try to understand what i do here.
